@@ -43,6 +43,17 @@ body {
 
 /*----- End of References -----*/
 
+/*----- Footer -----*/
+footer .col .nav-link{
+    color:grey;
+}
+
+footer .col .nav-link:active,
+footer .col .nav-link:hover {
+    color: #f2cc8f;
+}
+/*----- End of Footer -----*/
+
 /*// X-Small devices (portrait phones, less than 576px)
 // No media query for `xs` since this is the default in Bootstrap
 
